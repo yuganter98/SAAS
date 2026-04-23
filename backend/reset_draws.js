@@ -1,5 +1,6 @@
 const { Client } = require('pg');
-const client = new Client('postgresql://postgres.hxpyywanwuehqdvtjpff:mDdVbSOztXNWfEF7@aws-1-ap-northeast-2.pooler.supabase.com:6543/postgres');
+require('dotenv').config();
+const client = new Client(process.env.DATABASE_URL);
 
 async function run() {
   await client.connect();
