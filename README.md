@@ -2,6 +2,8 @@
 
 A modern SaaS web application that combines **golf performance tracking**, **monthly reward draws**, and **charity contributions** into a single engaging platform.
 
+### 🌐 **[Live Demo → https://saas-sage-chi.vercel.app](https://saas-sage-chi.vercel.app)**
+
 ---
 
 # 🚀 Live Overview
@@ -272,7 +274,7 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your_key
 
 # 🎥 Demo
 
-(Attach demo video link here)
+🌐 **Live Site:** [https://saas-sage-chi.vercel.app](https://saas-sage-chi.vercel.app)
 
 ---
 
